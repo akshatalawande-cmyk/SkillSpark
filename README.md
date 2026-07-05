@@ -81,7 +81,18 @@ It allows students to register, learn through video playlists, attempt quizzes, 
 ![Subscription](images/subscription.png)
 
 ---
+## 🗄️ Database Setup
+
+1. Open **phpMyAdmin**.
+2. Create a new database named **skillspark**.
+3. Import the file:
+
+```
+database/skillspark.sql
+```
+
+4. Start Apache and MySQL using XAMPP.
+5. Open the project in your browser.
 
 ## 👩‍💻 Developed By
-
 Akshata Lawande
