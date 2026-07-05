@@ -34,7 +34,51 @@ It allows students to register, learn through video playlists, attempt quizzes, 
 
 ## 📷 Project Screenshots
 
-(Will be added soon)
+### 🏠 Homepage
+
+![Homepage](images/homepage.png)
+
+---
+
+### 🔐 Login Page
+
+![Login](images/login.png)
+
+---
+
+### 📝 Registration Page
+
+![Register](images/register.png)
+
+---
+
+### 📚 Courses Page
+
+![Courses](images/course.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](images/dashboard.png)
+
+---
+
+### ❓ Quiz Page
+
+![Quiz](images/quiz.png)
+
+---
+
+### 🏆 Certificate
+
+![Certificate](images/certificate.png)
+
+---
+
+### 💳 Subscription Page
+
+![Subscription](images/subscription.png)
 
 ---
 
